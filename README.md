@@ -1,1 +1,1 @@
-# MasterThesis
+This is an eclipse workspace.
